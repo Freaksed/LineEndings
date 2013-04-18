@@ -1,1 +1,2 @@
-*.as text eol=lf
+*.as text eol=crlf
+
