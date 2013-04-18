@@ -1,0 +1,1 @@
+﻿/** ITowerDefenseDisplayObject *	---------------------------------------------------------------------------- */ 	package com.boogabooga.ui.gamelevel	{		public interface IGameLevelDisplayObject		{			function init():void;			function pause():void;			function unpause():void;			function kill():void;		}			}

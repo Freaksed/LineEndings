@@ -1,0 +1,1 @@
+﻿/** IContentView *	---------------------------------------------------------------------------- */ 	package com.boogabooga.ui.maingame	{		public interface IContentView		{			function show():void;			function hide():void;			//function viewDidAppear():void;			//function viewDidDisappear():void;		}			}
